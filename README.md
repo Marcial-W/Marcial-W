@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying on Beijing University of Posts and Telecommunications
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Python web crawler and artificial intelligence learning
+- 💬 Ask me about anything that you like
+- 📫 How to reach me: 2823709089@qq.com
+- ⚡ Fun fact: A programming novice, but passionate about programming and changing the world
